@@ -16,7 +16,8 @@ This project generates a comprehensive sales report using sales data stored in a
 ![Screenshot of Database](https://github.com/swarba015/Sales-Data-Analysis-Customer-Segmentation/blob/main/output/Screenshot%202024-08-03%20015245.png)
 
 ## Pdf Output
-[Screenshot of Sales Report](https://github.com/swarba015/Sales-Data-Analysis-Customer-Segmentation/blob/main/output/sales_report.pdf)
+![Sales Report](https://github.com/swarba015/Sales-Data-Analysis-Customer-Segmentation/blob/main/output/sales_report_screenshot.png)
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
